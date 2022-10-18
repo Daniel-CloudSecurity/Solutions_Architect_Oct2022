@@ -16,3 +16,9 @@ https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+I created S3 bucket with enforced ownership
+I created a single lifecycle policy
+I created a single bucket policy
+I deleted all the policies I created
+And finally, I deleted the S3 bucket that I created
