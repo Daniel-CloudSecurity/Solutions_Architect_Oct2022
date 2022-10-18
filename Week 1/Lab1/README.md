@@ -22,3 +22,11 @@ https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+I created a S3 bucket
+I created a folder in my S3 bucket
+I upload objects to my S3 bucket
+I listed the object in my S3 bucket
+I downloaded the object from my S3 bucket
+I deleted object in my S3 bucket
+Finally, I deleted my S3 bucket
