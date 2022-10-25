@@ -13,3 +13,11 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.ht
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
 
 https://docs.aws.amazon.com/vpc/index.html
+
+
+I opened my AWS Cloudshell and launced a VPC
+I created 2 subnets
+I made my subnet public by creating and attaching an internet gateway
+I created a security group and added a SSH access from anywhere
+I launced an EC2 instance into my subnet
+I cleaned up by deleting everything I created
