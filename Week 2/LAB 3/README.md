@@ -16,3 +16,11 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.ht
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
 
 https://docs.aws.amazon.com/vpc/index.html
+
+I created a non-default VPC
+I then created two subnets
+I created an internet gateway to one of the two subents with route table
+I configured an egress-only private subnet
+I modified the IPv6 addressing behavior of the two subnets I created
+I launched an instance into the two subnets I created
+I cleaned up by deleting everything I created
