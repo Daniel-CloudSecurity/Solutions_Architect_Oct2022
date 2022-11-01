@@ -15,3 +15,8 @@ Guide:
 https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-scenarios.html
 
 https://docs.aws.amazon.com/cognito/latest/developerguide/tutorial-create-identity-pool.html
+
+
+I launched the Amazon Cognito console
+I chose Manage Identity Pool and I created an identity pool
+Finally, I cleaned up by deleting the identity pool I created
