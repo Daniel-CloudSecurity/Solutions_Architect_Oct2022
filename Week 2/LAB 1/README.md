@@ -22,3 +22,6 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/
 
 https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-vpcs.html
 
+
+I did everything but I was unable to achieve network connectivity
+
