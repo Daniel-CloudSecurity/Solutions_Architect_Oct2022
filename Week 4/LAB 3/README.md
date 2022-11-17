@@ -11,3 +11,9 @@ Tasks:
 
 Guide:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html#using-placement-groups
+
+
+I created a placement group using the CLI
+I tagged a placement group and launch instances in a placement group
+I change the placement group for an instance
+I deleted the placement group
