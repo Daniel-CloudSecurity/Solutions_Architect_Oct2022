@@ -10,3 +10,8 @@ Task
 
 Guide:
 https://docs.aws.amazon.com/efs/latest/ug/gs-step-two-create-efs-resources.html
+
+
+I created and launched two Amazon EC2 instances
+I created my Amazon EFS file system with One Zone storage
+I failed to mount my Amazon EFS file system to my EC2 instances
