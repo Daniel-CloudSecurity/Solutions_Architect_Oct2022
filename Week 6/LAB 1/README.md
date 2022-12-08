@@ -26,6 +26,16 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEma
 
 
 
+I enabled billing alaerts
+I created a billing alarm
+I checked the alarm status
+I edited my billing alarm
+I deleted my billing alarm
+I created a CPU usage alarm and deleted it
+
+
+
+
 
 
 
