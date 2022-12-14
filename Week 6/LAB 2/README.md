@@ -8,3 +8,9 @@
 
 Guide:
 https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-tutorial.html
+
+
+
+I reviewed AWS account activity in event history
+I created my first trail
+And I viewed my log files
