@@ -13,3 +13,13 @@ Task:
 
 Guide:
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStartedDynamoDB.html
+
+
+I created a Table
+I wrote data to a table using the console
+I read data from a table
+I updated data in a table
+I queried data in a table
+I created a global secondary index
+I queried the global secondary index
+I deleted the table I created
